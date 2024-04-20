@@ -1,2 +1,4 @@
 # Music-Store-Analysis-SQL
 This project involves analyzing a music store's operational data using PRGrestSQL, a Progressive SQL tool. The aim is to leverage PRGrestSQL's capabilities to perform efficient querying and analysis of music-related data stored in a relational database. Key objectives include designing a database schema, populating it with relevant data, executing Progressive SQL queries to derive insights (such as sales trends, popular artists, and customer preferences), and presenting findings through interactive dashboards or reports. This project will showcase skills in database management, SQL querying, data analysis, and visualization within the context of a music retail environment.
+
+![MusicDatabaseSchema](https://github.com/Gauravyelane/Music-Store-Analysis-SQL/assets/152688347/61ed442b-f4d6-4bbb-9bd7-5f531fa00459)
